@@ -1,0 +1,20 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(ˆÙ·™
+J
+java:S1066"/Merge this if statement with the enclosing one.(³¹š†þÿÿÿÿ
+E
+java:S1066G"/Merge this if statement with the enclosing one.(­…¦Ö
+J
+java:S1066W"/Merge this if statement with the enclosing one.(¯ÃƒÈûÿÿÿÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·Ù°
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤æ¼Èûÿÿÿÿ
+`
+java:S17643"ECorrect one of the identical sub-expressions on both sides of equals.(›ŽÑµüÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‘«­¼ýÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¤—ŒÉúÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¬²¶²ýÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(…Ëß´úÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(Ž¾£Æ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(Æ¼Ø°
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(™Ê©‡þÿÿÿÿ

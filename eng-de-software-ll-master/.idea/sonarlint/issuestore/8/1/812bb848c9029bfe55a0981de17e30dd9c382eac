@@ -1,0 +1,10 @@
+
+
+java:S1450
+"_Remove the "janelaAreaLogado" field and declare it as a local variable in the relevant methods.(³÷ä¨ûÿÿÿÿ8½ˆ¥Ÿ1
+
+java:S1450"]Remove the "labelTitleICNS" field and declare it as a local variable in the relevant methods.(éÚÀ‰ıÿÿÿÿ8½ˆ¥Ÿ1
+R
+java:S1948"0Make "funcionarioDAO" transient or serializable.(º¶«ıúÿÿÿÿ8¾ˆ¥Ÿ1
+f
+java:S3252!"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(µÍŠ®8Óˆ¥Ÿ1

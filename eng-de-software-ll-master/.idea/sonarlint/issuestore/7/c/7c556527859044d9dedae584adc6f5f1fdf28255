@@ -1,0 +1,37 @@
+
+E
+java:S1604)"(Make this anonymous inner class a lambda(ÿ©äÒ8€ÆŸ1
+E
+java:S1604:"(Make this anonymous inner class a lambda(ÿ©äÒ8€ÆŸ1
+ƒ
+java:S1450"aRemove the "botaoTelaCadastrar" field and declare it as a local variable in the relevant methods.(Ù”¦ñøÿÿÿÿ8©ÆŸ1
+w
+java:S1450"ZRemove the "botaoVoltar" field and declare it as a local variable in the relevant methods.(á¸Ëš8©ÆŸ1
+
+java:S1450"_Remove the "labelCPFCadastro" field and declare it as a local variable in the relevant methods.(‰—¤Ÿüÿÿÿÿ8©ÆŸ1
+{
+java:S1450"YRemove the "labelEmail" field and declare it as a local variable in the relevant methods.(×±á™ûÿÿÿÿ8ªÆŸ1
+u
+java:S1450"XRemove the "labelNome" field and declare it as a local variable in the relevant methods.(¬Ñ‚—8ªÆŸ1
+‚
+java:S1450"`Remove the "labelRepetirSenha" field and declare it as a local variable in the relevant methods.(©¾ùáøÿÿÿÿ8ªÆŸ1
+ƒ
+java:S1450"aRemove the "labelSenhaCadastro" field and declare it as a local variable in the relevant methods.(èÈÆÇüÿÿÿÿ8ªÆŸ1
+
+java:S1450"]Remove the "labelTitleICNS" field and declare it as a local variable in the relevant methods.(éÚÀ‰ıÿÿÿÿ8ªÆŸ1
+[
+java:S1854+"9Remove this useless assignment to local variable "login".(Ãª›ˆşÿÿÿÿ8°ÆŸ1
+L
+java:S1481+"*Remove this unused "login" local variable.(Ãª›ˆşÿÿÿÿ8±ÆŸ1
+[
+java:S1854I"9Remove this useless assignment to local variable "login".(Ãª›ˆşÿÿÿÿ8³ÆŸ1
+Q
+java:S1874?"/Remove this use of "getText"; it is deprecated.(û‰ßúÿÿÿÿ8´ÆŸ1
+K
+java:S1874@"/Remove this use of "getText"; it is deprecated.(çÉ8µÆŸ1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ÕûŒğıÿÿÿÿ8¸ÆŸ1
+L
+java:S1481I"*Remove this unused "login" local variable.(Ãª›ˆşÿÿÿÿ8¸ÆŸ1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ƒüÒ8¸ÆŸ1
+g
+java:S3252¯"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(â§î8ÇÆŸ1

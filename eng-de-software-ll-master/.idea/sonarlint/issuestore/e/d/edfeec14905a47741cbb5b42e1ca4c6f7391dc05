@@ -1,0 +1,31 @@
+
+>
+java:S16043"(Make this anonymous inner class a lambda(ÿ©äÒ
+>
+java:S1604P"(Make this anonymous inner class a lambda(ÿ©äÒ
+|
+java:S1450"aRemove the "botaoTelaCadastrar" field and declare it as a local variable in the relevant methods.(Ù”¦ñøÿÿÿÿ
+t
+java:S1450"^Remove the "botaoTelaEntrar" field and declare it as a local variable in the relevant methods.(¹§¶´
+w
+java:S1450"\Remove the "labelCPFLogin" field and declare it as a local variable in the relevant methods.(§¸üãüÿÿÿÿ
+t
+java:S1450"^Remove the "labelSenhaLogin" field and declare it as a local variable in the relevant methods.(ŞƒŒÀ
+x
+java:S1450"]Remove the "labelTitleICNS" field and declare it as a local variable in the relevant methods.(éÚÀ‰ıÿÿÿÿ
+K
+java:S1948"0Make "funcionarioDAO" transient or serializable.(º¶«ıúÿÿÿÿ
+_
+java:S1854>"BRemove this useless assignment to local variable "janelaProdutos".(º·†ª8„²¸Ÿ1
+J
+java:S18747"/Remove this use of "getText"; it is deprecated.(ÎËª‚øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ì²à©ùÿÿÿÿ
+P
+java:S1481>"3Remove this unused "janelaProdutos" local variable.(º·†ª8ˆ²¸Ÿ1
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ñĞÌùÿÿÿÿ
+[
+java:S1854T"@Remove this useless assignment to local variable "telaCadastro".(€è˜şÿÿÿÿ
+L
+java:S1481T"1Remove this unused "telaCadastro" local variable.(€è˜şÿÿÿÿ
+_
+java:S3252y"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(â§î
