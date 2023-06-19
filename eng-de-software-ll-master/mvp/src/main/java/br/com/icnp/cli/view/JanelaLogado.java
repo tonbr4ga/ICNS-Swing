@@ -1,28 +1,26 @@
 package br.com.icnp.cli.view;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Rectangle;
+import br.com.icnp.cli.DAO.FuncionarioDAO;
 
-import javax.swing.JFrame;
-import javax.swing.JLabel;
+import javax.swing.*;
+import java.awt.*;
 
 public class JanelaLogado extends JFrame {
 
 	private JFrame janelaAreaLogado;
 
+	FuncionarioDAO funcionarioDAO;
 	private JLabel labelTitleICNS;
 
 	public JLabel getLabelTitleICNS() {
-		labelTitleICNS = new JLabel("ICNS - Manager");
+		labelTitleICNS = new JLabel("ICNS - Logado - Manager");
 		labelTitleICNS.setForeground(Color.black);
 		labelTitleICNS.setFont(new Font("", Font.BOLD, 14));
 		labelTitleICNS.setBounds(new Rectangle(10, 10, 130, 25));
 		return labelTitleICNS;
 	}
 
-	public void janelaProdutos() {
-
+	public void montaJanela() {
 		janelaAreaLogado = new JFrame();
 		janelaAreaLogado.setTitle("Projeto ICNS - Gerenciamento ");
 		janelaAreaLogado.setSize(800, 600);
@@ -30,18 +28,15 @@ public class JanelaLogado extends JFrame {
 		janelaAreaLogado.setLayout(null);
 		janelaAreaLogado.setResizable(true);
 		janelaAreaLogado.getContentPane().setBackground(new Color(255, 165, 0));
-
 		janelaAreaLogado.getContentPane().add(getLabelTitleICNS());
-
 		janelaAreaLogado.setVisible(true);
-
 		janelaAreaLogado.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
 	}
 
-	public static void main(String[] args) {
-
-		new JanelaLogado().janelaProdutos();
+	public JanelaLogado(FuncionarioDAO funcionarioDAO)
+	{
+		this.funcionarioDAO=funcionarioDAO;
+		this.montaJanela();
 
 	}
 
